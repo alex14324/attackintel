@@ -31,5 +31,6 @@ Use one of two methods:
 - Can only select a single threat group at a time
 - Information is only displayed to the screen (for now)
 
-# Contribute
-- New ideas are great! Got ideas for improvement, submit a PR. Thanks!
+# Thanks for Supporting
+ Flow at me github
+ https://github.com/alex14324
